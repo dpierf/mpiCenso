@@ -27,7 +27,7 @@ mpiCenso/
 │   ├── 02_ml/              # Gráficos do código `05_modelagem1.R`
 │   ├── 03_regressions/     # Gráficos do código `06_modelagem2.R`
 │   ├── 04_decomposition/   # Gráficos do código `07_decomposicao.R`
-│   ├── 05_spatial/         # Gráficos do código `08_especial.R`
+│   └── 05_spatial/         # Gráficos do código `08_especial.R`
 ├── R/                      # Arquivos das etapas
 │   ├── 00_packages.R       # Insalação e importação de pacotes
 │   ├── 01_tratamento.R     # Tratamento de bases de dados e criação do MPI-LA
