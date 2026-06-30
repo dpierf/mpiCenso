@@ -32,9 +32,8 @@ mpiCenso/
 │   ├── 06_modelagem2.R     # Modelos Econométricos
 │   ├── 07_decomposicao.R   # Decomposições de impacto
 │   └── 08_espacial.R       # Métricas de rede e modelos gravitacionais
-├── DESCRIPTION
-├── NAMESPACE
-└── LICENSE
+├── LICENSE
+└── README
 ```
 
 ---
@@ -42,7 +41,9 @@ mpiCenso/
 ## Dados necessários
 
 Os microdados do Censo não estão incluídos no repositório, devendo ser baixados por meio das funções disponíveis no pacote `censobr`.
-O fluxo de download, join e tratamento está no código `01_tratamento.R`
+O fluxo de download, join e tratamento está no código `01_tratamento.R`.
+
+A pasta `output` contém os resultados gráficos que se espera obter a partir da execução do código no estado atual. Arquivos RDS não foram incluídos.
 
 ---
 
